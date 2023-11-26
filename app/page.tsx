@@ -20,7 +20,7 @@ export default function Home() {
                   <p>Full Body </p>
                 </div>
               </div>
-              <img className='min-h-[150px]' />
+              <img className='min-h-[200px]' />
 
               <p className='text-4xl my-4 font-bold'>{e.name}</p>
               <p className='text-xl'>{e.instructions}</p>
